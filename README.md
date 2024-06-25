@@ -1,5 +1,20 @@
 # 💫 About Me:
-I'm pursuing my final year in MCA at K.K.Wagh College of Engineering Education and Research, Nashik.<br><br>With a fervent passion for frontend development and a keen eye for design, I thrive on crafting engaging and intuitive user experiences. Proficient in technologies like JavaScript, React, Next.js, and Tailwind CSS.<br><br>Beyond frontend, I'm delving into the realm of backend development, honing my expertise in Node.js and Express.js to evolve into a versatile full-stack developer.<br><br>Away from the screen, you'll find me lost in the pages of a captivating book, grooving to music that feeds my soul, or weaving stories that captivate the imagination. Let's connect and share our journey in the ever-evolving landscape of technology and creativity!<br><br>"DMs are open for open-ended convos : )<br>---
+As a passionate Software Developer, I thrive on building innovative applications using the latest and most effective technologies. My journey in the tech world has equipped me with a diverse skill set, allowing me to create robust and scalable solutions.
+
+Tech Stack:
+
+- Languages: C++, JavaScript, HTML, CSS, Bash, SQL
+- Frameworks: React, Node.js, Express.js, Tailwind CSS
+- Databases: MongoDB
+- Tools and Other: Git, Postman, Firebase
+
+Collaboration and teamwork are at the core of my work ethic. I believe that the best solutions come from diverse minds working together, and I am always eager to contribute to and learn from my team.
+
+Beyond coding, I am deeply interested in the latest trends and advancements in the tech industry. I enjoy engaging in conversations about emerging technologies and their potential impacts.
+
+In my free time, I am an avid reader and enjoy immersing myself in books that broaden my perspective. I also love watching podcasts that offer insights into various fields and playing and watching sports to stay active and entertained.
+
+Feel free to reach out - My DMs are always open for interesting conversations and networking opportunities.<br>---
 
 
 ## 🌐 Socials:
