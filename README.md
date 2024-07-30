@@ -1,12 +1,12 @@
 # 💫 About Me:
 As a passionate Software Developer, I thrive on building innovative applications using the latest and most effective technologies. My journey in the tech world has equipped me with a diverse skill set, allowing me to create robust and scalable solutions.
 
-Tech Stack:
+My Tech Stack Looks Like :
 
 - Languages: C++, JavaScript, HTML, CSS, Bash, SQL
-- Frameworks: React.js, Node.js, Express.js, Tailwind CSS
-- Databases: MongoDB
-- Tools and Other: Git, Postman, Firebase, AppWrite
+- Frameworks: React.js, Redux-toolkit(RTK), Next.js, Node.js, Express.js, Tailwind CSS, Aceternity UI
+- Databases: MongoDB, MySQL
+- Tools and Other: Git, Github, Postman, Firebase, AppWrite
 
 Collaboration and teamwork are at the core of my work ethic. I believe that the best solutions come from diverse minds working together, and I am always eager to contribute to and learn from my team.
 
