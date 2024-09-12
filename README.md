@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 As a passionate Software Developer, I thrive on building innovative applications using the latest and most effective technologies. My journey in the tech world has equipped me with a diverse skill set, allowing me to create robust and scalable solutions.
 
 My Tech Stack Looks Like :
