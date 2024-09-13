@@ -3,7 +3,7 @@ As a passionate Software Developer, I thrive on building innovative applications
 
 My Tech Stack Looks Like :
 
-- Languages: C++, JavaScript, HTML, CSS, Bash, SQL
+- Languages: C++, JavaScript, HTML, CSS, Bash,SQL.
 - Frameworks: React.js, Redux-toolkit(RTK), Next.js, Node.js, Express.js, Tailwind CSS, Aceternity UI
 - Databases: MongoDB, MySQL
 - Tools and Other: Git, Github, Postman, Firebase, AppWrite
