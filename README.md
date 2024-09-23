@@ -10,12 +10,13 @@ My Tech Stack Looks Like :
 
 <details>
   <summary>See More</summary>
-  
+  <br>
   Collaboration and teamwork are at the core of my work ethic. I believe that the best solutions come from diverse minds working together, and I am always eager to contribute to and learn from my team.
 
   Beyond coding, I am deeply interested in the latest trends and advancements in the tech industry. I enjoy engaging in conversations about emerging technologies and their potential impacts.
 
-  In my free time, I am an avid reader and enjoy immersing myself in books that broaden my perspective. I also love watching podcasts that offer insights into various fields and playing and watching sports to stay active and entertained.
+  In my free time, I am an avid reader and enjoy immersing myself in books that broaden my perspective. I also love watching podcasts that offer insights into various fields and playing and watching sports to 
+  stay active and entertained.
 
   Feel free to reach out - My DMs are always open for interesting conversations and networking opportunities.<br>---
 
