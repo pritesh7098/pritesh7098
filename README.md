@@ -1,7 +1,7 @@
 # About Me :
 As a passionate Software Developer, I thrive on building innovative applications using the latest and most effective technologies. My journey in the tech world has equipped me with a diverse skill set, allowing me to create robust and scalable solutions.
 
-My Tech Stack Looks Like :
+My Tech Stack Looks Like This :
 
 - Languages: C++, JavaScript, TypeScript, HTML, CSS, Bash, SQL.
 - Frameworks: Next.js, React.js, Redux, Node.js, Express.js, Tailwind CSS
@@ -11,17 +11,23 @@ My Tech Stack Looks Like :
 <details>
   <summary>See More</summary>
   <br>
-  
-  Collaboration and teamwork are at the core of my work ethic. I believe that the best solutions come from diverse minds working together, and I am always eager to contribute to and learn from my team.
-  
-  Beyond coding, I am deeply interested in the latest trends and advancements in the tech industry. I enjoy engaging in conversations about emerging technologies and their potential impacts.
 
-  In my free time, I am an avid reader and enjoy immersing myself in books that broaden my perspective. I also love watching podcasts that offer insights into various fields and playing and watching sports to 
-  stay active and entertained.
+## What I Am Currently Learning
 
-  Feel free to reach out - My DMs are always open for interesting conversations and networking opportunities.<br>---
+I am currently delving into backend development and DevOps practices to become a versatile full-stack developer. My focus is on mastering server-side technologies, cloud infrastructure, and continuous integration/continuous deployment (CI/CD) pipelines to build scalable and efficient applications.
 
-  </details>
+    
+## Interests
+
+Beyond coding, I am deeply interested in the latest trends and advancements in the tech industry. I enjoy engaging in conversations about emerging technologies and their potential impacts.
+
+In my free time, I am an avid reader and enjoy immersing myself in books that broaden my perspective. I also love watching podcasts that offer insights into various fields and playing and watching sports to stay active and entertained.
+
+## Contact Me
+
+Feel free to reach out - My DMs are always open for interesting conversations and networking opportunities.
+
+</details>
 
 
   ## 🌐 Let's Connect:
