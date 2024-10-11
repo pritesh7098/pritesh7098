@@ -1,10 +1,12 @@
 # About Me
 
-Hello! I'm Pritesh Dhanad, a dedicated developer creating impactful applications using modern technologies.
+Hello! I'm Pritesh, a dedicated developer creating impactful applications using modern technologies.
 
-I have primarily worked with JavaScript, but I am highly adaptable and eager to learn new technologies.
+Check out my [Portfolio](https://pritesh-s-dev-portfolio.vercel.app/#projects) to see my recent work and projects.
 
 ## My Tech Stack
+
+I have primarily worked with JavaScript, but I am highly adaptable and eager to learn new technologies.
 
 - **Languages:** C++, JavaScript, TypeScript, HTML, CSS, Bash, SQL
 - **Frameworks:** Next.js, React.js, Redux, Node.js, Express.js, Tailwind CSS
@@ -18,8 +20,6 @@ I'm working on strengthening my backend development skills to grow as a more com
 ## Contact Me
 
 Feel free to reach out - My DMs are always open for interesting conversations and networking opportunities.
-
-## 🌐 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priteshdhanad2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritesh-dhanad-63b570158)
@@ -37,5 +37,3 @@ Feel free to reach out - My DMs are always open for interesting conversations an
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=pritesh7098&icon=9&color=12)](https://visitcount.itsvg.in)
