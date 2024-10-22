@@ -2,7 +2,7 @@
 
 Hello! I'm Pritesh, a dedicated developer creating impactful applications using modern technologies.
 
-Check out my [Portfolio](https://pritesh-s-dev-portfolio.vercel.app/#projects) to see my recent work and projects.
+Check out my [Portfolio](https://priteshdev.vercel.app/#projects) to see my recent work and projects.
 
 ## My Tech Stack
 
