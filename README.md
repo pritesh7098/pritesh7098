@@ -6,7 +6,7 @@ Check out my [Portfolio](https://priteshdev.vercel.app/#projects) to see my rece
 
 ## My Tech Stack
 
-I have primarily worked with JavaScript, but I am highly adaptable and eager to learn new technologies.
+I have primarily worked with JavaScript/TypeScript Ecosystem, but I am highly adaptable and eager to learn new technologies.
 
 - **Languages:** C++, JavaScript, TypeScript, HTML, CSS, Bash, SQL
 - **Frameworks:** Next.js, React.js, Redux, Node.js, Express.js, Tailwind CSS
