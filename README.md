@@ -1,8 +1,22 @@
 # About Me
 
-Hello! I'm Pritesh, a dedicated developer creating impactful applications using modern technologies.
+ Hello! I'm Pritesh Dhanad, a dedicated developer creating impactful applications using modern technologies.
+
+Check out my [Resume](https://drive.google.com/file/d/1N5WjMewcW0u3h1wEgZM8FO8JvPsZRnIR/view?usp=sharing) 📫
 
 Check out my [Portfolio](https://priteshdev.vercel.app/#projects) to see my recent work and projects.
+
+## What I Am Currently Doing
+
+I'm working on strengthening my backend development skills to grow as a more comprehensive developer.
+
+## Previous Work : 
+- **Freelance Frontend Developer @RKTECH SOLUTIONS Private Limited .**
+- **Frontend Developer Intern @Academor Edutech .**
+- **SAP Student Intern @PRIMUS Techsystems Private Limited .**
+
+* Master's In Computer Applications @K.K. Wagh Institute of Engineering Education and Research, Nashik ( 2024 ) 
+
 
 ## My Tech Stack
 
@@ -13,9 +27,6 @@ I have primarily worked with JavaScript/TypeScript Ecosystem, but I am highly ad
 - **Databases:** MongoDB, MySQL
 - **Tools and Other:** Git, GitHub, Postman, Firebase, AppWrite
 
-## What I Am Currently Learning
-
-I'm working on strengthening my backend development skills to grow as a more comprehensive developer.
 
 ## Contact Me
 
