@@ -1,6 +1,6 @@
 # About Me
 
- Hello! I'm Pritesh Dhanad, a dedicated developer creating impactful applications using modern technologies.
+Hello! I'm Pritesh Dhanad, a dedicated developer creating impactful applications using modern technologies.
 
 Check out my [Resume](https://drive.google.com/file/d/1N5WjMewcW0u3h1wEgZM8FO8JvPsZRnIR/view?usp=sharing) 📫
 
@@ -10,7 +10,7 @@ Check out my [Portfolio](https://priteshdev.vercel.app/#projects) to see my rece
 
 I'm working on strengthening my backend development skills to grow as a more comprehensive developer.
 
-## Previous Work Experience: 
+## Previous Work Experience
 - **Freelance Frontend Developer @RKTECH SOLUTIONS Private Limited .**
 - **Frontend Developer Intern @Academor Edutech .**
 - **SAP Student Intern @PRIMUS Techsystems Private Limited .**
