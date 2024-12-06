@@ -10,7 +10,7 @@ Check out my [Portfolio](https://priteshdev.vercel.app/#projects) to see my rece
 
 I'm working on strengthening my backend development skills to grow as a more comprehensive developer.
 
-## Previous Work : 
+## Previous Work Experience: 
 - **Freelance Frontend Developer @RKTECH SOLUTIONS Private Limited .**
 - **Frontend Developer Intern @Academor Edutech .**
 - **SAP Student Intern @PRIMUS Techsystems Private Limited .**
