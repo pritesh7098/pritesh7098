@@ -18,7 +18,7 @@ I'm working on strengthening my backend development skills to grow as a more com
 * Master's In Computer Applications @K.K. Wagh Institute of Engineering Education and Research, Nashik ( 2024 ) 
 
 
-## My Tech Stack
+## My Tech Stack Includes
 
 I have primarily worked with JavaScript/TypeScript Ecosystem, but I am highly adaptable and eager to learn new technologies.
 
