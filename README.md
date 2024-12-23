@@ -23,8 +23,8 @@ I'm working on strengthening my backend development skills to grow as a more com
 I have primarily worked with JavaScript/TypeScript Ecosystem, but I am highly adaptable and eager to learn new technologies.
 
 - **Languages:** C++, JavaScript, TypeScript, HTML, CSS, Bash, SQL
-- **Frameworks:** Next.js, React.js, Redux, Node.js, Express.js, Tailwind CSS
-- **Databases:** MongoDB, MySQL
+- **Frameworks:** NextJS, ReactJS, Redux, Recoil, NodeJs, ExpressJs, Tailwind-CSS
+- **Databases:** MySQL, PostgreSQL, Prisma, MongoDB, Mongoose
 - **Tools and Other:** Git, GitHub, Postman, Firebase, AppWrite
 
 
