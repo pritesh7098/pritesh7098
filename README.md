@@ -11,9 +11,10 @@ Check out my [Portfolio](https://pritesh-works.vercel.app) to see my recent work
 I'm working on strengthening my backend development skills to grow as a more comprehensive developer.
 
 ## Previous Work Experience
-- **Freelance Frontend Developer @RKTECH SOLUTIONS Private Limited .**
-- **Frontend Developer Intern @Academor Edutech .**
-- **SAP Student Intern @PRIMUS Techsystems Private Limited .**
+- **Web Development Trainer @NIIT Foundation.**
+- **Freelance Frontend Developer @RKTECH SOLUTIONS Private Limited.**
+- **Frontend Developer Intern @Academor Edutech.**
+- **SAP Student Intern @PRIMUS Techsystems Private Limited.**
 
 * Master's In Computer Applications @K.K. Wagh Institute of Engineering Education and Research, Nashik ( 2024 ) 
 
