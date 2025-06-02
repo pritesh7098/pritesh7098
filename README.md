@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Pritesh Dhanad, a dedicated developer creating impactful applications using modern technologies.
+Hello! I'm Pritesh, Experienced Software Developer with a strong passion for teaching and a deep love for reading. I believe in the power of code to solve real-world problems, the value of sharing knowledge, and the importance of staying curious.
 
 Check out my [Resume](https://drive.google.com/file/d/1buE5qwsQA7NenfC9mYAvZwmVQVggaVsd/view?usp=sharing) 📫
 
