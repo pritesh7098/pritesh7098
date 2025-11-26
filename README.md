@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Pritesh, Experienced Software Developer with a strong passion for teaching and a deep love for reading. I believe in the power of code to solve real-world problems, the value of sharing knowledge, and the importance of staying curious.
+Hello! I'm Pritesh, A Software Developer & Fullstack Web Development Educator @SevenMentor Pvt Ltd, Pune, where I guide aspiring developers in building modern web applications| Passionate about teaching, reading, cinema & music
 
 Check out my [Resume](https://drive.google.com/file/d/1buE5qwsQA7NenfC9mYAvZwmVQVggaVsd/view?usp=sharing) 📫
 
@@ -10,7 +10,8 @@ Check out my [Portfolio](https://pritesh-works.vercel.app) to see my recent work
 
 I'm working on strengthening my backend development skills to grow as a more comprehensive developer.
 
-## Previous Work Experience
+## Work Experience
+- **Currently Working As Fullstack Web Development Educator @SevenMentor Pvt Ltd, Pune.**
 - **Web Development Trainer @NIIT Foundation.**
 - **Freelance Frontend Developer @RKTECH SOLUTIONS Private Limited.**
 - **Frontend Developer Intern @Academor Edutech.**
